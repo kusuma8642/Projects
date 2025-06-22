@@ -1,0 +1,31 @@
+.container{
+    height:350px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+body{
+    background-color:violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#searchBox{
+    height: 30px;
+    padding: 5px;
+}
+#searchButton{
+    background-color: rgba(0, 0, 255, 0.603);
+    margin-top: 10px;
+    border: 0px;
+    height: 30px;
+    border-radius: 5px;
+}
+h3{
+    color: green;
+}
+#wind{
+    color: red;
+    font-size: 1em;
+}
