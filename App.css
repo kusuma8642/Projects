@@ -1,0 +1,23 @@
+.Box{
+  height:400px;
+  width:250px;
+  background-color: aqua;
+  margin-left: 20px;;
+  border-radius: 10px;
+  margin-top:10px;
+  display:inline-block;
+  text-align: center;
+
+}
+.Box>img{
+  height: 200px;
+  width:150px;
+  margin-top: 20%;
+  margin-left:22% ;
+}
+.Box>p{
+  text-align: center;
+}
+body{
+  background: linear-gradient(90deg,pink,violet);
+}
