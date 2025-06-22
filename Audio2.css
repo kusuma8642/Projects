@@ -1,0 +1,26 @@
+#image{
+    margin-top: 20vh;
+   height: 300px;
+   width: 300px;
+   border: 1px solid black;
+   background:url("/Image/doremon1.jpg") ;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#Buttons{
+    margin-top: 30px;
+
+}
+button{
+    height: 25px;
+    width: 75px;
+
+}
+#img{
+    height: 100%;
+    width: 100%;
+}
