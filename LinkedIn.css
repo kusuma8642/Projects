@@ -1,0 +1,290 @@
+#header{
+    
+    display:flex;
+    height:80px;
+    width:100vw;
+    position: relative;
+    background-color: white;
+
+}
+#logo>img{
+    
+    width:130px;
+    height:70px;
+}
+#list>ul>li{
+    margin: 15px;
+    display:inline-block;
+    
+
+}
+#logo{
+    position:absolute;
+    left:130px;
+}
+#list{
+    position:absolute;
+    right:320px;
+}
+#Buttons{
+    position:absolute;
+    right:120px;
+    margin:10px;
+}
+.HeadButtons{
+    height:50px;
+    width:80px;
+    margin-top:5px;
+    border-radius:40%;
+    
+}
+
+#signIn{
+    border:2px solid blue;
+    color:blue;
+}
+#joinNow{
+    border:0px solid;
+}
+   
+#signIn:hover{
+    background-color:aliceblue;
+}
+
+
+
+#joinNow:hover{
+    color:gray;
+}
+.segment2{
+    display:flex;
+    position:relative;
+    height:500px;
+    width:100vw;
+}
+#box1{
+
+    position:absolute;
+    right:665px;
+    height:100%;
+    width:745px;
+}
+#box2{
+    position:absolute;
+    right:0px;
+    height:100%;
+    width:735px;
+}
+#logButtons{
+    display:flex;
+    flex-direction:column;
+
+}
+.bodybutton{
+    margin-top:40px;
+    background-color:white;
+    height:40px;
+    width:380px;
+    border-radius:15px;
+    margin:7px;
+}
+#googleButton{
+    color:white;
+    border:1px;
+    background-color:blue;
+}
+.boxHeading{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+#bodyPara{
+    margin-right:280px;
+    text-align:center;
+    font-size: small;
+}
+#newuser{
+     margin-right:290px;
+    text-align:center;
+    font-size: small;
+
+}
+#header2{
+    
+    display:flex;
+    height:300px;
+    width:97.7vw;
+    position: relative;
+    background-color:rgba(220, 220, 220, 0.486);
+    margin-top:60px;
+}
+.segment2{
+    display:flex;
+    position:relative;
+    height:500px;
+    width:100vw;
+}
+#box3{
+
+    position:absolute;
+    right:665px;
+    height:100%;
+    width:745px;
+}
+#box4{
+    position:absolute;
+    right:0px;
+    height:100%;
+    width:735px;
+}
+.explore{
+     margin-left:70px;
+     margin-top:60px;
+     font-family:Arial, Helvetica, sans-serif;
+     font-size: 2.1em;
+
+}
+#Para{
+
+     
+     font-size:medium;
+     font-size: 1.45em;
+     margin-top: 110px;
+     margin-left: 152px;
+}
+#elogButtons{
+     
+     right:400px;
+     
+     margin-top: 50px;
+     
+   
+}
+.inButtons{
+    
+    height:40px;
+    width:165px;
+   margin-top: 9px;
+    
+    border-radius:25px;
+    
+    
+}
+#marketing:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#publicAdministration:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#healthcare:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#engineering:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#itServices:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+
+}
+#sustainability:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#businessAdministration:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#teleCommunications:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#hrManagement:hover{
+    background-color: rgba(128, 128, 128, 0.226);
+
+}
+#showAll{
+    border:2px solid blue;
+    color:blue;
+}
+#showAll:hover{
+    background-color:aliceblue;
+}
+#segment4{
+    height:300px;
+    width:97.5vw;
+    background-color: rgba(250, 235, 215, 0.493);
+}
+.postPara{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.2em;
+    text-align:center;
+    padding-top: 80px;
+    color:rgba(165, 42, 42, 0.786)
+
+}
+#postButton{
+    
+    text-align:center;
+}
+.psButton{
+    font-size: 1.0em;
+    border-radius: 25px;
+    height:50px;
+    width:130px;
+    border:2px solid blue;
+    color:blue;
+
+}
+#postJob:hover{
+    background-color: aliceblue;
+
+}
+#segment5{
+    height: 200px;
+    width: 100%;
+
+}
+#box5{
+
+    position:absolute;
+    right:665px;
+    height:55%;
+    width:745px;
+}
+#box6{
+    position:absolute;
+    right:0px;
+    height:55%;
+    width:735px;
+}
+
+#internPara{
+
+     
+     font-size:medium;
+     font-size: 1.90em;
+     margin-top: 100px;
+     margin-left: 152px;
+}
+#internlogButtons{
+     
+     right:400px;
+     
+     margin-top: 90px;
+     
+   
+}
+.informButtons{
+    
+    height:50px;
+    width:165px;
+   margin-top: 9px;
+    
+    border-radius:25px;
+    
+    
+}
